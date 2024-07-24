@@ -11,7 +11,7 @@ yellow='\e[1;33m'
 
 echo -e "$yellow ===================================================="
 echo -e "$okegreen            Mass AutoTakeover Github               "
-echo -e "$okegreen              DigitalProject@2023                  "
+echo -e "$okegreen              HaxorSec@2023                  "
 echo -e "$yellow ===================================================="
 read -p "Your List: " list;
 read -p "Your username: " user;
